@@ -1,0 +1,11 @@
+# LeNet saved model files
+lenet.*
+
+# iPython extra files
+.ipynb_checkpoints
+checkpoint
+
+# Traffic sign data and examples
+traffic-signs-data/*
+examples/*
+visualize_cnn.png
