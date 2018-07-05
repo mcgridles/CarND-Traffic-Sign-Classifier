@@ -6,6 +6,6 @@ lenet.*
 checkpoint
 
 # Traffic sign data and examples
-traffic-signs-data/*
-examples/*
-visualize_cnn.png
+traffic-signs-data/
+traffic_signs/.ipynb_checkpoints
+examples/
